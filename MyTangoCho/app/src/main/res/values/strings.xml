@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">単語帳</string>
+    <string name="Change_color">画面の背景色を変えたい場合は下のボタンを押してください</string>
+    <string name="add_tango">登録されている単語一覧</string>
+    <string name="setumei_tango">修正はその単語の行をタップ。削除の場合は長押し</string>
+    <string name="please_push_button">問題と答えを入力して登録ボタンを押してください</string>
+
+    <string name="status_add">新しい単語の追加</string>
+    <string name="status_change">登録した単語の修正</string>
+
+    <string name="intent_key_status">intent_key_status</string>
+    <string name="intent_key_question">intent_key_question</string>
+    <string name="intent_key_answer">intent_key_answer</string>
+    <string name="intent_key_position">intent_key_position</string>
+    <string name="intent_key_memory_flag">intent_key_memory_flag</string>
+
+    <string name="Touroku_Toast">登録が完了しました</string>
+    <string name="Chohuku_Toast">その単語は既に登録されています</string>
+    <string name="Shusei_Toast">修正が完了しました</string>
+
+    <string name="db_field_question">strQuestion</string>
+    <string name="db_field_answer">strAnswer</string>
+    <string name="db_field_memory_flag">boolMemoryFlag</string>
+
+    <string name="radio_button_01">暗記済みの単語を除外する</string>
+    <string name="radio_button_02">暗記済みの単語を含む</string>
+
+    <string name="button_sort">暗記済は下に</string>
+
+    <string name="check_Box">暗記済にする場合はチェックを入れてください</string>
+
+
+</resources>

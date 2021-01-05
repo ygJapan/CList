@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">シン脳トレ</string>
+    <string name="textview">問題数を選択してスタートボタンを押してください</string>
+    <string name="buttonStart">スタート</string>
+
+    <!-- 選択肢 -->
+    <string-array name="number_of_quesution">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatYourName</string>
+
+    <string name="title">あなたの名前を教えてください</string>
+</resources>
